@@ -5,7 +5,7 @@
 
 <h2> Recursos <h2>
 <ul>
-Recursos Utilizados
+  Recursos Utilizados
 <li> Python <li>
 <li> Google Colab <li>
 <li> Google Gemini API <li>
