@@ -4,7 +4,8 @@
 <h5> O poligloth Chatbot tem por objetivo ajudar aqueles que querem melhorar os níveis de conversação em lingua estrangeira com o uso da plataforma do gemini <h5>
 
 <h2> Recursos <h2>
-<ul>Recursos Utilizados
+<ul>
+Recursos Utilizados
 <li> Python <li>
 <li> Google Colab <li>
 <li> Google Gemini API <li>
